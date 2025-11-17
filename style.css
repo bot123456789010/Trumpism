@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(to right, #ffcc00, #ff6666);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#trump {
+  font-size: 100px;
+  cursor: pointer;
+  margin: 20px 0;
+}
+
+#money {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.upgrades button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#quotes {
+  font-style: italic;
+  margin-bottom: 20px;
+  color: #333;
+}
